@@ -1,0 +1,199 @@
+Name,Type,Category,main_muscle,secondary_muscle,equipment,mechanics,level,sport,reps,sets,weight
+"Alternate Heel Touchers
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,3.0,none
+"Alternating Deltoid Raise
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,7,3.0,5
+"Barbell Curl
+",Strength,Arms,Biceps, Forearms,Barbell,Isolation,Beginner,No,12,3.0,10
+"Barbell Incline Bench Press - Medium Grip
+",Strength,Upper,Chest, Shoulders Triceps,Barbell,Compound,Beginner,No,6,3.0,20
+"Barbell Shrug Behind The Back
+",Strength,Upper,Traps, Forearms MiddleBack,Barbell,Isolation,Beginner,No,15,4.0,10
+"Barbell Side Split Squat
+",Strength,Lower,Quadriceps, Calves Hamstrings LowerBack,Barbell,Compound,Beginner,No,6,2.0,20
+"Barbell Walking Lunge
+",Strength,Lower,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Beginner,No,8,4.0,8
+"Bench Dips
+",Strength,Arms,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,10,3.0,none
+"Bent Over Barbell Row
+",Strength,Upper,MiddleBack, Biceps Lats Shoulders,Barbell,Compound,Beginner,No,6,3.0,15
+"Bent-Knee Hip Raise
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,10,3.0,none
+"Body Tricep Press
+",Strength,Arms,Triceps,0,BodyOnly,Isolation,Beginner,No,8,3.0,none
+"Bodyweight Squat
+",Strength,Lower,Quadriceps, Glutes Hamstrings,BodyOnly,Compound,Beginner,No,15,3.0,none
+"Butt Lift (Bridge)
+",Strength,Lower,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,15,4.0,none
+"Chin-Up
+",Strength,Upper,Lats, Biceps Forearms MiddleBack,BodyOnly,Compound,Beginner,No,10,3.0,none
+"Close-Grip Barbell Bench Press
+",Strength,Arms,Triceps, Chest Shoulders,Barbell,Compound,Beginner,No,10,3.0,15
+"Close-Grip EZ Bar Curl
+",Strength,Arms,Biceps, Forearms,Barbell,Isolation,Beginner,No,3,3.0,8
+"Cocoons
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,12,3.0,none
+"Concentration Curls
+",Strength,Arms,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,5,3.0,5
+"Crunch - Hands Overhead
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,3.0,none
+"Crunches
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,3.0,none
+"Decline Dumbbell Bench Press
+",Strength,Upper,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Decline Dumbbell Triceps Extension
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Decline Oblique Crunch
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,10,4.0,none
+"Decline Reverse Crunch
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,10,4.0,none
+"Dips - Triceps Version
+",Strength,Arms,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,3,3.0,none
+"Dumbbell Bench Press
+",Strength,Upper,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Dumbbell Bicep Curl
+",Strength,Arms,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,8,3.0,6
+"Dumbbell Incline Row
+",Strength,Upper,MiddleBack, Biceps Forearms Lats Shoulders,Dumbbell,Compound,Beginner,No,8,3.0,15
+"Dumbbell Lunges
+",Strength,Lower,Quadriceps, Calves Glutes Hamstrings,Dumbbell,Compound,Beginner,No,15,5.0,8
+"Dumbbell Side Bend
+",Strength,Upper,Abdominals,0,Dumbbell,Isolation,Beginner,No,10,3.0,7
+"Dumbbell Tricep Extension -Pronated Grip
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Decline Dumbbell Bench Press
+",Strength,Upper,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Flat Bench Lying Leg Raise
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,5.0,none
+"Front Incline Dumbbell Raise
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,8,3.0,6
+"Front Two-Dumbbell Raise
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Flat Bench Lying Leg Raise
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,3.0,none
+"Glute Kickback
+",Strength,Lower,Glutes, Hamstrings,BodyOnly,Compound,Beginner,No,10,5.0,none
+"Hammer Grip Incline DB Bench Press
+",Strength,Upper,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Incline Bench Pull
+",Strength,Upper,MiddleBack, Lats Shoulders,Barbell,Isolation,Beginner,No,8,3.0,6
+"Incline Dumbbell Curl
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Incline Dumbbell Flyes
+",Strength,Upper,Chest, Shoulders,Dumbbell,Compound,Beginner,No,8,3.0,5
+"Incline Hammer Curls
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Incline Push-Up
+",Strength,Upper,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,8,4.0,none
+"Incline Push-Up Reverse Grip
+",Strength,Upper,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,8,4.0,none
+"Isometric Neck Exercise - Front And Back
+",Strength,Upper,Neck,0,BodyOnly,Isolation,Beginner,No,none,2.0,none
+"Isometric Wipers
+",Strength,Upper,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,5,3.0,none
+"Jackknife Sit-Up
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,8,5.0,none
+"Landmine 180's
+",Strength,Upper,Abdominals, Glutes LowerBack Shoulders,Barbell,Compound,Beginner,No,8,3.0,8
+"Leg Lift
+",Strength,Lower,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,15,5.0,none
+"Leg Pull-In
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,15,5.0,none
+"Lying Cambered Barbell Row
+",Strength,Upper,MiddleBack, Biceps Lats Traps,Barbell,Isolation,Beginner,No,8,3.0,10
+"Lying Supine Dumbbell Curl
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Oblique Crunches
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,15,5.0,none
+"One Arm Dumbbell Preacher Curl
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"One Arm Supinated Dumbbell Triceps Extension
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"One-Arm Flat Bench Dumbbell Flye
+",Strength,Upper,Chest,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"One-Arm Incline Lateral Raise
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"One-Arm Side Laterals
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,3,3.0,5
+"Oblique Crunches
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,8,5.0,none
+"Palms-Down Wrist Curl Over A Bench
+",Strength,Arms,Forearms,0,Barbell,Isolation,Beginner,No,8,3.0,5
+"Palms-Up Dumbbell Wrist Curl Over A Bench
+",Strength,Arms,Forearms,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Plank
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,none,3.0,none
+"Power Partials
+",Strength,Arms,Shoulders,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Preacher Curl
+",Strength,Arms,Biceps,0,Barbell,Isolation,Beginner,No,8,3.0,5
+"Pullups
+",Strength,Upper,Lats, Biceps MiddleBack,BodyOnly,Compound,Beginner,No,10,4.0,none
+"Push-Up Wide
+",Strength,Upper,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,12,5.0,none
+"Push-Ups With Feet Elevated
+",Strength,Upper,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,6,3.0,none
+"Pushups
+",Strength,Upper,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,10,4.0,none
+"Reverse Crunch
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,,none
+"Rocking Standing Calf Raise
+",Strength,Lower,Calves,0,Barbell,Isolation,Beginner,No,8,3.0,10
+"Reverse Crunch
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,4.0,none
+"Seated Barbell Twist
+",Strength,Upper,Abdominals,0,Barbell,Isolation,Beginner,No,8,3.0,8
+"Seated Dumbbell Curl
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,6
+"Seated Dumbbell Palms-Down Wrist Curl
+",Strength,Arms,Forearms,0,Dumbbell,Isolation,Beginner,No,5,3.0,5
+"Seated Dumbbell Press
+",Strength,Arms,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Seated Leg Tucks
+",Strength,Upper,Abdominals,0,BodyOnly,Isolation,Beginner,No,10,5.0,none
+"Seated Palms-Down Barbell Wrist Curl
+",Strength,Arms,Forearms,0,Barbell,Isolation,Beginner,No,5,3.0,8
+"Seated Triceps Press
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,10
+"Side Bridge
+",Strength,Upper,Abdominals, Shoulders,BodyOnly,,Beginner,No,8,5.0,none
+"Side Jackknife
+",Strength,Upper,Abdominals,0,BodyOnly,Compound,Beginner,No,10,5.0,none
+"Side Laterals to Front Raise
+",Strength,Arms,Shoulders, Traps,Dumbbell,Isolation,Beginner,No,5,3.0,5
+"Smith Incline Shoulder Raise
+",Strength,Arms,Shoulders, Chest,Barbell,Isolation,Beginner,No,8,3.0,10
+"Spell Caster
+",Strength,Upper,Abdominals, Glutes Shoulders,Dumbbell,Compound,Beginner,No,8,3.0,5
+"Standing Alternating Dumbbell Press
+",Strength,Arms,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Standing Bent-Over Two-Arm Dumbbell Triceps Extension
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Standing Concentration Curl
+",Strength,Arms,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Standing Dumbbell Press
+",Strength,Arms,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,8,3.0,5
+"Standing Dumbbell Upright Row
+",Strength,Upper,Traps, Biceps Shoulders,Dumbbell,Compound,Beginner,No,8,3.0,8
+"Standing One-Arm Dumbbell Curl Over Incline Bench
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Standing Overhead Barbell Triceps Extension
+",Strength,Arms,Triceps, Shoulders,Barbell,Isolation,Beginner,No,8,3.0,10
+"Standing Towel Triceps Extension
+",Strength,Arms,Triceps,0,BodyOnly,Isolation,Beginner,No,8,4.0,none
+" Knee Raise
+",Strength,Lower,Glutes, Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,19,5.0,none
+"Straight Raises on Incline Bench
+",Strength,Arms,Shoulders, Traps,Barbell,Isolation,Beginner,No,8,3.0,6
+"Seated Triceps Press
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,8
+"T-Bar Row with Handle
+",Strength,Upper,MiddleBack, Biceps Lats,Barbell,Compound,Beginner,No,8,3.0,15
+"Tricep Dumbbell Kickback
+",Strength,Arms,Triceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Two-Arm Dumbbell Preacher Curl
+",Strength,Arms,Biceps,0,Dumbbell,Isolation,Beginner,No,8,3.0,5
+"Wide-Grip Standing Barbell Curl
+",Strength,Arms,Biceps,0,Barbell,Isolation,Beginner,No,8,3.0,10
+"Wrist Rotations with Straight Bar
+",Strength,Arms,Forearms,0,Barbell,Isolation,Beginner,No,3,2.0,5
